@@ -18,6 +18,8 @@
 <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60"/>
 <img alt="Groovy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="60"/>
 <img alt="Grails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grails/grails-original.svg" width="60"/>
+<img alt=".NET" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="60"/>
+  
 </p>
 
 ## Tools 🛠️

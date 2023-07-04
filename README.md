@@ -1,8 +1,4 @@
 # Hey! My name is Jeferson Berlim! How is it going? 👋
-
-<p align="left">
-  I'm <i> Software Engineer</i> at <strong>@asaas 🚀</strong>
- </p>
  
  ## Graduation 🎓
  📚 Graduated in <strong>Software Engineering</strong>
